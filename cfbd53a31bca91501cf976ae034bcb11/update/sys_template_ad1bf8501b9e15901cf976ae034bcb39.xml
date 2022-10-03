@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>SAM Push Deployment Application</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>SAM Fulfilment: Change request for Application Deployment</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>AP\MEGUPT1</sys_created_by>
+        <sys_created_on>2022-09-28 11:16:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>ad1bf8501b9e15901cf976ae034bcb39</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SAM Push Deployment Application</sys_name>
+        <sys_package display_value="SAM Push Deployment Application " source="x_iem_sam_push_dep">cfbd53a31bca91501cf976ae034bcb11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM Push Deployment Application ">cfbd53a31bca91501cf976ae034bcb11</sys_scope>
+        <sys_update_name>sys_template_ad1bf8501b9e15901cf976ae034bcb39</sys_update_name>
+        <sys_updated_by>AP\MEGUPT1</sys_updated_by>
+        <sys_updated_on>2022-09-28 11:19:01</sys_updated_on>
+        <table>change_request</table>
+        <template>requested_by=f49c53411b5a5c107b9e8734ec4bcbfb^state=-5^cmdb_ci=^assigned_to=^short_description=SAM Fulfilment: Change request for application deployment^description=	Reason for Ticket : Request for performing push deployment&#13;
+       -----------------------------------------------------------------------------------------------------------------------------------------------&#13;
+	Please answer the following questions thoroughly:&#13;
+	1.	Is this an expedited change? Reason for Expedited:&#13;
+	2.	Describe the change in detail. What is changing? What components are required? What will the change do?&#13;
+	3.	What is the business purpose for releasing this change?&#13;
+	4.	Who requested this change? (EMIT Group, Business Group, etc.)&#13;
+	5.	What are the target dates? Who is the target audience?&#13;
+	6.	List impacted servers if applicable?&#13;
+	7.	List all collections if applicable?&#13;
+	8.	State the number of machines/users who will be impacted if known?&#13;
+	9.	What is the potential worst-case business impact? How is this being mitigated?&#13;
+	10.	What is the potential worst-case service impact? How is this being mitigated?&#13;
+	11.	Does this change impact High Risk Environments? (Yes/No)&#13;
+	12.	Which environments are impacted? (Ex. XOM/XTO/WQ1)&#13;
+	--------------------------------------------------------------------------------------------------------------------------------------------------------------------&#13;
+	Please fill the below information in Work Details tab&#13;
+	1.	Business Justification&#13;
+	2.	Install Plan&#13;
+	3.	Back-out Plan&#13;
+        --------------------------------------------------------------------------------------------------------------------------------------------------------------------&#13;
+	List the steps required to complete a full back-out. Which groups/vendors need to be involved? How will you verify the back-out was &#13;
+        successful?&#13;
+	1. Service Impact Assessment&#13;
+	2.   Test plan&#13;
+^business_service=b6845a741bdf2010eea453de034bcbbf^u_business_approver=708947cc1ba201501cf976ae034bcb7f^assignment_group=5d970402db23f700121ed5ab5e9619d0^EQ</template>
+        <user display_value="Gupta, Mehak">f49c53411b5a5c107b9e8734ec4bcbfb</user>
+        <view/>
+    </sys_template>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_sampushdeploymentapplication_upgradeapp" name="sn_dd_sampushdeploymentapplication_upgradeapp">6b71db711bd2d9541cf976ae034bcb0f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>UPSTREAMACCTS\KWIJEWA</sys_created_by>
+        <sys_created_on>2022-10-03 14:00:09</sys_created_on>
+        <sys_id>777113b11bd2d9541cf976ae034bcb8f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6b71db711bd2d9541cf976ae034bcb0f</sys_name>
+        <sys_package display_value="SAM Push Deployment Application " source="x_iem_sam_push_dep">cfbd53a31bca91501cf976ae034bcb11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM Push Deployment Application ">cfbd53a31bca91501cf976ae034bcb11</sys_scope>
+        <sys_update_name>sys_embedded_help_role_777113b11bd2d9541cf976ae034bcb8f</sys_update_name>
+        <sys_updated_by>UPSTREAMACCTS\KWIJEWA</sys_updated_by>
+        <sys_updated_on>2022-10-03 14:00:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
