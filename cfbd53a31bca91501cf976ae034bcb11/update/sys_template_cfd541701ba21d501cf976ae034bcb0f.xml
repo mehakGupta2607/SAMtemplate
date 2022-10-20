@@ -5,7 +5,7 @@
         <group/>
         <groups/>
         <link_element/>
-        <name>SAM Push Deployment Application</name>
+        <name>SAM Push Deployment Application v3</name>
         <next/>
         <next_child/>
         <roles/>
@@ -14,19 +14,19 @@
         <stand_alone>false</stand_alone>
         <sys_class_name>sys_template</sys_class_name>
         <sys_created_by>AP\MEGUPT1</sys_created_by>
-        <sys_created_on>2022-09-28 11:16:09</sys_created_on>
+        <sys_created_on>2022-10-12 11:35:24</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_id>ad1bf8501b9e15901cf976ae034bcb39</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>SAM Push Deployment Application</sys_name>
+        <sys_id>cfd541701ba21d501cf976ae034bcb0f</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>SAM Push Deployment Application v3</sys_name>
         <sys_package display_value="SAM Push Deployment Application " source="x_iem_sam_push_dep">cfbd53a31bca91501cf976ae034bcb11</sys_package>
         <sys_policy/>
         <sys_scope display_value="SAM Push Deployment Application ">cfbd53a31bca91501cf976ae034bcb11</sys_scope>
-        <sys_update_name>sys_template_ad1bf8501b9e15901cf976ae034bcb39</sys_update_name>
+        <sys_update_name>sys_template_cfd541701ba21d501cf976ae034bcb0f</sys_update_name>
         <sys_updated_by>AP\MEGUPT1</sys_updated_by>
-        <sys_updated_on>2022-09-28 11:19:01</sys_updated_on>
+        <sys_updated_on>2022-10-20 12:35:00</sys_updated_on>
         <table>change_request</table>
-        <template>requested_by=f49c53411b5a5c107b9e8734ec4bcbfb^state=-5^cmdb_ci=^assigned_to=^short_description=SAM Fulfilment: Change request for application deployment^description=	Reason for Ticket : Request for performing push deployment&#13;
+        <template>state=-5^cmdb_ci=^short_description=SAM Fulfilment: Change request for application deployment^description=	Reason for Ticket : Request for performing push deployment&#13;
        -----------------------------------------------------------------------------------------------------------------------------------------------&#13;
 	Please answer the following questions thoroughly:&#13;
 	1.	Is this an expedited change? Reason for Expedited:&#13;
@@ -51,7 +51,7 @@
         successful?&#13;
 	1. Service Impact Assessment&#13;
 	2.   Test plan&#13;
-^business_service=b6845a741bdf2010eea453de034bcbbf^u_business_approver=708947cc1ba201501cf976ae034bcb7f^assignment_group=5d970402db23f700121ed5ab5e9619d0^EQ</template>
+^business_service=b6845a741bdf2010eea453de034bcbbf^u_change_template=cfd541701ba21d501cf976ae034bcb0f^u_business_approver=64a9065047f60510065b0bbd436d4321,6662755087a2f0903b4bb8c9cebb3536^assignment_group=5d970402db23f700121ed5ab5e9619d0^EQ</template>
         <user display_value="Gupta, Mehak">f49c53411b5a5c107b9e8734ec4bcbfb</user>
         <view/>
     </sys_template>

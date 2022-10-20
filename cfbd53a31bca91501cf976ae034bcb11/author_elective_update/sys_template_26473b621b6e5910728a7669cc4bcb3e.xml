@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="DELETE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>SAM Push Deployment Application </name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>SAM Fulfilment: Change request for Application Deployment</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>AP\MEGUPT1</sys_created_by>
+        <sys_created_on>2022-10-18 11:00:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>26473b621b6e5910728a7669cc4bcb3e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SAM Push Deployment Application </sys_name>
+        <sys_package display_value="SAM Push Deployment Application " source="x_iem_sam_push_dep">cfbd53a31bca91501cf976ae034bcb11</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAM Push Deployment Application ">cfbd53a31bca91501cf976ae034bcb11</sys_scope>
+        <sys_update_name>sys_template_26473b621b6e5910728a7669cc4bcb3e</sys_update_name>
+        <sys_updated_by>AP\MEGUPT1</sys_updated_by>
+        <sys_updated_on>2022-10-18 15:19:28</sys_updated_on>
+        <table>change_request</table>
+        <template>cmdb_ci=^assigned_to=^short_description=SAM Fulfilment: Change request for Application Deployment^description=	Reason for Ticket : Request for performing push deployment&#13;
+       -----------------------------------------------------------------------------------------------------------------------------------------------&#13;
+	Please answer the following questions thoroughly:&#13;
+	1.	Is this an expedited change? Reason for Expedited:&#13;
+	2.	Describe the change in detail. What is changing? What components are required? What will the change do?&#13;
+	3.	What is the business purpose for releasing this change?&#13;
+	4.	Who requested this change? (EMIT Group, Business Group, etc.)&#13;
+	5.	What are the target dates? Who is the target audience?&#13;
+	6.	List impacted servers if applicable?&#13;
+	7.	List all collections if applicable?&#13;
+	8.	State the number of machines/users who will be impacted if known?&#13;
+	9.	What is the potential worst-case business impact? How is this being mitigated?&#13;
+	10.	What is the potential worst-case service impact? How is this being mitigated?&#13;
+	11.	Does this change impact High Risk Environments? (Yes/No)&#13;
+	12.	Which environments are impacted? (Ex. XOM/XTO/WQ1)&#13;
+	--------------------------------------------------------------------------------------------------------------------------------------------------------------------&#13;
+	Please fill the below information in Work Details tab&#13;
+	1.	Business Justification&#13;
+	2.	Install Plan&#13;
+	3.	Back-out Plan&#13;
+        --------------------------------------------------------------------------------------------------------------------------------------------------------------------&#13;
+	List the steps required to complete a full back-out. Which groups/vendors need to be involved? How will you verify the back-out was &#13;
+        successful?&#13;
+	1. Service Impact Assessment&#13;
+	2.   Test plan&#13;
+^business_service=b6845a741bdf2010eea453de034bcbbf^u_business_approver=5662fd5c8766749075ad97d83cbb3502^assignment_group=439699741b51e4946e7f8443cc4bcb67^u_change_template=26473b621b6e5910728a7669cc4bcb3e^EQ</template>
+        <user display_value="Gupta, Mehak">f49c53411b5a5c107b9e8734ec4bcbfb</user>
+        <view/>
+    </sys_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SAM Push Deployment Application ">cfbd53a31bca91501cf976ae034bcb11</application>
+        <file_path/>
+        <instance_id>c383490ddb92b700387021c405961992</instance_id>
+        <instance_name>emcitizendev</instance_name>
+        <name>sys_template_26473b621b6e5910728a7669cc4bcb3e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template"><sys_template action="INSERT_OR_UPDATE"><active>true</active><global>false</global><group/><groups/><link_element/><name>SAM Push Deployment Application </name><next/><next_child/><roles/><short_description>SAM Fulfilment: Change request for Application Deployment</short_description><show_on_template_bar>true</show_on_template_bar><stand_alone>false</stand_alone><sys_class_name>sys_template</sys_class_name><sys_created_by>AP\MEGUPT1</sys_created_by><sys_created_on>2022-10-18 11:00:14</sys_created_on><sys_domain>global</sys_domain><sys_id>26473b621b6e5910728a7669cc4bcb3e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>SAM Push Deployment Application </sys_name><sys_package display_value="SAM Push Deployment Application " source="x_iem_sam_push_dep">cfbd53a31bca91501cf976ae034bcb11</sys_package><sys_policy/><sys_scope display_value="SAM Push Deployment Application ">cfbd53a31bca91501cf976ae034bcb11</sys_scope><sys_update_name>sys_template_26473b621b6e5910728a7669cc4bcb3e</sys_update_name><sys_updated_by>AP\MEGUPT1</sys_updated_by><sys_updated_on>2022-10-18 15:19:28</sys_updated_on><table>change_request</table><template>cmdb_ci=^assigned_to=^short_description=SAM Fulfilment: Change request for Application Deployment^description=	Reason for Ticket : Request for performing push deployment&#13;
+       -----------------------------------------------------------------------------------------------------------------------------------------------&#13;
+	Please answer the following questions thoroughly:&#13;
+	1.	Is this an expedited change? Reason for Expedited:&#13;
+	2.	Describe the change in detail. What is changing? What components are required? What will the change do?&#13;
+	3.	What is the business purpose for releasing this change?&#13;
+	4.	Who requested this change? (EMIT Group, Business Group, etc.)&#13;
+	5.	What are the target dates? Who is the target audience?&#13;
+	6.	List impacted servers if applicable?&#13;
+	7.	List all collections if applicable?&#13;
+	8.	State the number of machines/users who will be impacted if known?&#13;
+	9.	What is the potential worst-case business impact? How is this being mitigated?&#13;
+	10.	What is the potential worst-case service impact? How is this being mitigated?&#13;
+	11.	Does this change impact High Risk Environments? (Yes/No)&#13;
+	12.	Which environments are impacted? (Ex. XOM/XTO/WQ1)&#13;
+	--------------------------------------------------------------------------------------------------------------------------------------------------------------------&#13;
+	Please fill the below information in Work Details tab&#13;
+	1.	Business Justification&#13;
+	2.	Install Plan&#13;
+	3.	Back-out Plan&#13;
+        --------------------------------------------------------------------------------------------------------------------------------------------------------------------&#13;
+	List the steps required to complete a full back-out. Which groups/vendors need to be involved? How will you verify the back-out was &#13;
+        successful?&#13;
+	1. Service Impact Assessment&#13;
+	2.   Test plan&#13;
+^business_service=b6845a741bdf2010eea453de034bcbbf^u_business_approver=5662fd5c8766749075ad97d83cbb3502^assignment_group=439699741b51e4946e7f8443cc4bcb67^u_change_template=26473b621b6e5910728a7669cc4bcb3e^EQ</template><user display_value="Gupta, Mehak">f49c53411b5a5c107b9e8734ec4bcbfb</user><view/></sys_template></record_update>]]></payload>
+        <payload_hash>-1288563813</payload_hash>
+        <record_name>SAM Push Deployment Application </record_name>
+        <reverted_from/>
+        <source>42eed7af1bca91501cf976ae034bcbd9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>AP\MEGUPT1</sys_created_by>
+        <sys_created_on>2022-10-18 15:19:28</sys_created_on>
+        <sys_id>af73b8f21b22d910728a7669cc4bcb7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183ebada0c30000001</sys_recorded_at>
+        <sys_updated_by>AP\MEGUPT1</sys_updated_by>
+        <sys_updated_on>2022-10-18 15:19:28</sys_updated_on>
+        <type>Template</type>
+        <update_guid>a373b8f2c822d9100ba0340e6d7aee7d</update_guid>
+        <update_guid_history>a373b8f2c822d9100ba0340e6d7aee7d:-1288563813,5228bf26766e5910e8490b0605f005da:-414000737</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>AP\MEGUPT1</sys_created_by>
+        <sys_created_on>2022-10-18 15:42:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_template">sys_template</sys_db_object>
+        <sys_id>0f6c45f00f9f4f20952d76435f9d56c4</sys_id>
+        <sys_metadata>26473b621b6e5910728a7669cc4bcb3e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAM Push Deployment Application </sys_name>
+        <sys_package display_value="SAM Push Deployment Application " source="x_iem_sam_push_dep">cfbd53a31bca91501cf976ae034bcb11</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SAM Push Deployment Application ">cfbd53a31bca91501cf976ae034bcb11</sys_scope>
+        <sys_scope_delete display_value="">01c46d5fa96d42108591848e7306fc44</sys_scope_delete>
+        <sys_update_name>sys_template_26473b621b6e5910728a7669cc4bcb3e</sys_update_name>
+        <sys_update_version display_value="sys_template_26473b621b6e5910728a7669cc4bcb3e">af73b8f21b22d910728a7669cc4bcb7d</sys_update_version>
+        <sys_updated_by>AP\MEGUPT1</sys_updated_by>
+        <sys_updated_on>2022-10-18 15:42:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
